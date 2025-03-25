@@ -1,0 +1,1 @@
+I sistemi di controllo di versione si divisono in due tipi di architetture, centralizzate e distribuite.
