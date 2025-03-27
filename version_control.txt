@@ -1,2 +1,3 @@
 "Git Š un sistema di controllo di versione distribuito" 
 "Git utilizza SHA-1 per identificare i commit" 
+"Modifica temporanea" 

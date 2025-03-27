@@ -1,1 +1,3 @@
 "I commit permettono di salvare lo stato di un progetto" 
+"Ogni commit ha un messaggio descrittivo" 
+"Un'altra modifica temporanea"
