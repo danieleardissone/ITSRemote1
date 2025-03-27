@@ -1,1 +1,2 @@
 "un repository Git tiene traccia delle modifiche ai file" 
+"Un repository pu• essere locale o remoto" 
